@@ -14,5 +14,8 @@
   "source_files": [
     "Classes"
    ],
-  "requires_arc": true
+  "requires_arc": true,
+  "authors": {
+  	"Brandon Dean": "deanbrandon4@gmail.com"
+  }
 }
